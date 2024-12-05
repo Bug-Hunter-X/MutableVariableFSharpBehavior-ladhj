@@ -1,0 +1,1 @@
+This example demonstrates a common issue in F# related to mutable variables and their behavior within functions. The `add` function unexpectedly modifies its input parameters, leading to incorrect results.  The solution showcases how to use immutable variables to maintain the integrity of the original values and achieve the desired outcome.
